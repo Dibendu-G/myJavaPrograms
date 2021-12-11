@@ -1,7 +1,6 @@
 package com.company;
 class base {
     int x;
-
     public int getX() {
         return x;
     }
