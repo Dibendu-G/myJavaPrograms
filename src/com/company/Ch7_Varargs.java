@@ -23,6 +23,6 @@ public class Ch7_Varargs {
         System.out.println("The Sum of 1 is "+sum(1));
         System.out.println("The Sum of 4 and 5 is "+sum(4,5));
         System.out.println("The Sum of 4 and 5 and 6 is "+sum(4,5,6));
-        System.out.println("The Sum of 4 and 5 and 6 and 9 is "+sum(4,5,6,9));
+        System.out.println("The Sum of 4 and 5 and 6 and 9 is "+sum(4,5,6,9,10,11));
     }
 }
